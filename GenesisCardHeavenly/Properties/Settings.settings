@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GenesisCardHeavenly.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TextureFolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">tex</Value>
+    </Setting>
+    <Setting Name="XmlFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">genesis_card.xml</Value>
+    </Setting>
+    <Setting Name="OutputFolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">printer</Value>
+    </Setting>
+    <Setting Name="PrintSerial" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Font" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ＤＦＰ太丸ゴシック体</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
